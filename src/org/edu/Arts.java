@@ -18,6 +18,12 @@ public class Arts extends Education {
 	public void pg() {
 		System.out.println("55%");
 	}
+	public void Mba() {
+		System.out.println("65%");
+	}
+	public void bsc() {
+		System.out.println("70%");
+	}
 	public void Mbbs() {
 		System.out.println("95%");
 	}
