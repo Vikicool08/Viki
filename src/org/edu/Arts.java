@@ -1,5 +1,4 @@
 package org.edu;
-
 public class Arts extends Education {
 	public void bSc() {
 	System.out.println("50%");
@@ -18,6 +17,13 @@ public class Arts extends Education {
 	}
 	public void pg() {
 		System.out.println("55%");
+	}
+	public void Mbbs() {
+		System.out.println("95%");
+	}
+	public void Bds() {
+		System.out.println("100%");
+
 	}
 	public static void main(String[] args) {
 		Arts a = new Arts();
